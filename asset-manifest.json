@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jeeva-ctrl/quote-generator/static/css/main.cf3eb3c9.chunk.css",
+    "main.js": "/Jeeva-ctrl/quote-generator/static/js/main.c35a7af7.chunk.js",
+    "main.js.map": "/Jeeva-ctrl/quote-generator/static/js/main.c35a7af7.chunk.js.map",
+    "runtime-main.js": "/Jeeva-ctrl/quote-generator/static/js/runtime-main.8a07b89a.js",
+    "runtime-main.js.map": "/Jeeva-ctrl/quote-generator/static/js/runtime-main.8a07b89a.js.map",
+    "static/js/2.2364a1f5.chunk.js": "/Jeeva-ctrl/quote-generator/static/js/2.2364a1f5.chunk.js",
+    "static/js/2.2364a1f5.chunk.js.map": "/Jeeva-ctrl/quote-generator/static/js/2.2364a1f5.chunk.js.map",
+    "static/js/3.1a21f95b.chunk.js": "/Jeeva-ctrl/quote-generator/static/js/3.1a21f95b.chunk.js",
+    "static/js/3.1a21f95b.chunk.js.map": "/Jeeva-ctrl/quote-generator/static/js/3.1a21f95b.chunk.js.map",
+    "index.html": "/Jeeva-ctrl/quote-generator/index.html",
+    "static/css/main.cf3eb3c9.chunk.css.map": "/Jeeva-ctrl/quote-generator/static/css/main.cf3eb3c9.chunk.css.map",
+    "static/js/2.2364a1f5.chunk.js.LICENSE.txt": "/Jeeva-ctrl/quote-generator/static/js/2.2364a1f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a07b89a.js",
+    "static/js/2.2364a1f5.chunk.js",
+    "static/css/main.cf3eb3c9.chunk.css",
+    "static/js/main.c35a7af7.chunk.js"
+  ]
+}
